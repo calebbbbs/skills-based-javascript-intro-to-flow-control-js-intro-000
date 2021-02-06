@@ -28,6 +28,7 @@ function ternaryTeenager(age) {
 }
 
 function switchAge(age) {
+  let phrase = "";
   switch(age){
     case (age >= 13  age <= 19):
       phrase = ("You are a teenager")
