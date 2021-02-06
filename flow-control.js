@@ -27,14 +27,14 @@ function ternaryTeenager(age) {
   return phrase
 }
 
-function switchAge(age) {
-  let phrase = "";
-  switch(age){
-    case (age >= 13  age <= 19):
-      phrase = ("You are a teenager")
-      break;
-    default:
-      phrase = ("You have an age")
-  }
-  return phrase
-}
+//function switchAge(age) {
+  //let phrase = "";
+  //switch(age){
+  ///  case (age >= 13  age <= 19):
+    //  return = ("You are a teenager")
+      //break;
+  //  default:
+    //  return = ("You have an age")
+//  }
+  //return phrase
+//}
