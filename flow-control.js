@@ -35,4 +35,5 @@ function switchAge(age) {
     default:
       phrase = "You have an age"
   }
+  return phrase
 }
