@@ -76,5 +76,5 @@ describe('flow-control', () => {
     //  expect(switchAge(75)).toEqual("You have an age")
     //  expect(switchAge(7)).toEqual("You have an age")
   //  })
-  })
+  //})
   })
